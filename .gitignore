@@ -11,6 +11,7 @@
 bin/**
 tmp/**
 tmp/**/*
+Users1stPass/**
 *.tmp
 *.bak
 *.swp
