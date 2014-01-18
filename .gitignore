@@ -17,6 +17,8 @@ Users1stPass/**
 *.swp
 *~.nib
 local.properties
+PSW-LIST
+PSW-LIST.IV
 .classpath
 .settings/
 .loadpath
